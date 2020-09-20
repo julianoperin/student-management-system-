@@ -63,7 +63,7 @@
       <form method="POST" id="ins_rec">
 	      <div class="modal-body">
 			  	<div class="form-group">
-					<label><b>User Name</b></label>
+					<label><b>Name</b></label>
 					<input type="text" name="username" class="form-control" placeholder="Username">
 					<span class="error-msg" id="msg_1"></span>
 			  	</div>
@@ -73,12 +73,12 @@
 					<span class="error-msg" id="msg_2"></span>
 			  	</div>
 				<div class="form-group">
-					<label><b>Country</b></label>
+					<label><b>Major</b></label>
 					<select class="custom-select" name="country" id="country">
 						<option value="" selected>Choose...</option>
-						<option value="USA">USA</option>
-						<option value="Germany">Germany</option>
-						<option value="UK">UK</option>
+						<option value="Computer Science">Computer Science</option>
+						<option value="Web Design">Web Design</option>
+						<option value="UX/UI">UX/UI</option>
 					</select>
 					<span class="error-msg" id="msg_3"></span>
 			  	</div>

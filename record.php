@@ -29,7 +29,7 @@ else{
 					  	<th scope="col">Name</th>
 					  	<th scope="col">Email</th>
 						<th scope="col">Gender</th>
-					  	<th scope="col">Country</th>
+					  	<th scope="col">Major</th>
 						<th scope="col">DOB</th>
 						<th scope="col">Action</th>
 					</tr>
